@@ -1,0 +1,12 @@
+! Title: Productivity Block List
+
+! Video platforms
+||youtube.com^
+@@||music.youtube.com^ ! Allow YT Music
+
+! Memes
+||jbzd.com.pl^
+
+! Forums
+||reddit.com^
+||4chan.org^
