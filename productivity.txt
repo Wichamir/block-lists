@@ -2,7 +2,7 @@
 
 ! Video platforms
 ||youtube.com^
-@@||music.youtube.com^ ! Allow YT Music
+@@||music.youtube.com^
 
 ! Memes
 ||jbzd.com.pl^
